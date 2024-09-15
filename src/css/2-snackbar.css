@@ -1,0 +1,45 @@
+.form {
+  margin-top: 24px;
+  margin-left: 24px;
+}
+
+.delay-label {
+  margin-bottom: 8px;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.delay-input {
+  margin-bottom: 7px;
+  width: 366px;
+  height: 35px;
+}
+
+.state-field {
+  width: 345px;
+  height: 50px;
+  border-radius: 3px;
+}
+
+.state-input {
+  padding-top: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  display: flex;
+  gap: 8px;
+  display: flex;
+  gap: 90px;
+}
+
+.submit-button {
+  margin-top: 10px;
+  width: 375px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.through-state {
+  font-size: 20px;
+}
